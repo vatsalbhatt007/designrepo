@@ -11,7 +11,7 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
 // implied. See the License for the specific language governing
 // permissns and limitations under the License.
-//Hello
+//
 #include "fibonacci.h"
 
 unsigned int fibonacci(unsigned int n)
